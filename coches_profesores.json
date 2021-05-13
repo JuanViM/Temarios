@@ -1,0 +1,84 @@
+[
+    {
+      "nombre": "María",
+      "apellidos": "Suárez Manrique",
+      "especialidad": [
+        "biología"
+      ],
+      "esTitular": true,
+      "esAsociado": false,
+      "vehiculo": {
+        "matricula": "1111ABC",
+        "tipo": "SUV",
+        "marca": "Lexus",
+        "caballos": 190,
+        "uso": 3
+      }
+    },
+    {
+      "nombre": "Jose Luis",
+      "apellidos": "López Pérez",
+      "especialidad": [
+        "matemáticas",
+        "fisica"
+      ],
+      "esTitular": true,
+      "esAsociado": false,
+      "vehiculo": {
+        "matricula": "2222DEF",
+        "tipo": "SUV",
+        "marca": "Toyota",
+        "caballos": 120,
+        "uso": 13
+      }
+    },
+    {
+      "nombre": "Antonio",
+      "apellidos": "Munguía Arteche",
+      "especialidad": [
+        "física, química"
+      ],
+      "esTitular": true,
+      "esAsociado": false,
+      "vehiculo": {
+        "matricula": "3333HIJ",
+        "tipo": "turismo",
+        "marca": "volvo",
+        "caballos": 176,
+        "uso": 6
+      }
+    },
+    {
+      "nombre": "Fernando",
+      "apellidos": "Delgado De La Fuente",
+      "especialidad": [
+        "física"
+      ],
+      "esTitular": false,
+      "esAsociado": true,
+      "vehiculo": {
+        "matricula": "4444KLM",
+        "tipo": "moto",
+        "marca": "Yamaha",
+        "caballos": 75,
+        "uso": 8
+      }
+    },
+    {
+      "nombre": "Elena",
+      "apellidos": "Hérnandez Serafín",
+      "especialidad": [
+        "matemáticas",
+        "física"
+      ],
+      "esTitular": true,
+      "esAsociado": false,
+      "vehiculo": {
+        "matricula": "5555NOP",
+        "tipo": "moto",
+        "marca": "honda",
+        "caballos": 170,
+        "uso": 4
+      }
+    }
+  ]
